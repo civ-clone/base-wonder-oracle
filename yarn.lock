@@ -72,9 +72,10 @@
     "@civ-clone/core-registry" "^0.1.0"
     "@civ-clone/core-rule" "^0.1.0"
 
-"@civ-clone/core-wonder@github:civ-clone/core-wonder":
+"@civ-clone/core-wonder@^0.1.0":
   version "0.1.0"
-  resolved "https://codeload.github.com/civ-clone/core-wonder/tar.gz/4596e4e269dc25c88992a0d350729c02c8a35a75"
+  resolved "https://registry.yarnpkg.com/@civ-clone/core-wonder/-/core-wonder-0.1.0.tgz#a0d3082c8604de1a6935e24cfce58af01bb686df"
+  integrity sha512-GLxdtvBaNhgKnHLxQ7qqpCVIalLybkQlQAVHWxYonNQxIbSFHmG1GkyvQRW08DTEDGksnrPqR3VhMjUhnHh9+g==
   dependencies:
     "@civ-clone/core-city-improvement" "^0.1.0"
     "@civ-clone/core-registry" "^0.1.0"
